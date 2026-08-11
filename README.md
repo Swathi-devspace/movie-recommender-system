@@ -35,11 +35,11 @@ The recommendation engine converts textual movie information into numerical feat
 
 ### Home Page
 
-![Home Page](images/homepage.png)
+![Home Page](images/homepage.png.png)
 
 ### Recommendations
 
-![Recommendations](images/recommendations.png)
+![Recommendations](images/recommendations.png.png)
 
 ---
 
